@@ -2,24 +2,16 @@ Put your original images in this folder using these exact filenames (PNG).
 Until a file is added, the game shows a clearly labelled placeholder.
 
 sports-quest-board.png            Sports Quest Board (interactive checkpoint map)
-coach-welcome.png                 Virtual Sports Coach - welcoming pupils
-coach-instructions.png            Virtual Sports Coach - giving instructions
-coach-celebrate.png               Virtual Sports Coach - celebrating correct answers
-coach-encourage.png               Virtual Sports Coach - encouraging after incorrect answers
-coach-unlock.png                  Virtual Sports Coach - unlocking checkpoints
-coach-achievement.png             Virtual Sports Coach - presenting achievements
-checkpoint-1-cover.png            Sports Detective cover
-checkpoint-2-cover.png            Equipment Match cover
-checkpoint-3-cover.png            Grammar Decoder cover
-checkpoint-4-cover.png            Virtual Referee cover
-checkpoint-5-cover.png            Sports Reporter cover
-checkpoint-6-cover.png            Champion Zone cover
-equipment-racket-shuttlecock.png  Badminton equipment
-equipment-football.png            Football equipment
-equipment-goggles.png             Swimming equipment
-equipment-bicycle-helmet.png      Cycling equipment
-equipment-basketball.png          Basketball equipment
-equipment-hockey-stick-puck.png   Ice hockey equipment
+(Checkpoint cover images are NOT REQUIRED: each checkpoint opens straight into its activity.)
+(The Virtual Sports Coach images are ALREADY ADDED. They were cut from the
+ teacher's two original sheets in coach-source/, unchanged apart from cropping:
+ coach-welcome, coach-wave, coach-instructions, coach-thumbs-up, coach-celebrate,
+ coach-encourage, coach-unlock, coach-achievement, coach-proud, coach-champion .jpg
+ To replace one, keep the same .jpg filename.)
+OPTIONAL equipment photos (the game already has its own drawn equipment
+pictures; a photo with one of these names replaces the drawing):
+equipment-racket-shuttlecock.png  equipment-football.png  equipment-goggles.png
+equipment-bicycle-helmet.png      equipment-basketball.png equipment-hockey-stick-puck.png
 
 Tip: transparent PNGs look best for the coach and equipment.
 The board's shape is detected automatically; adjust checkpoint marker
