@@ -1,0 +1,16 @@
+Put your recorded MP3 files in this folder using these exact filenames.
+Until a file is added, its Listen button shows "AUDIO NOT YET AVAILABLE".
+
+welcome-narration.mp3      Welcome narration (Welcome screen)
+learning-objectives.mp3    Learning objectives narration
+clue-badminton.mp3         "Players hit a shuttlecock over a net."
+clue-football.mp3          "Players kick a ball to score goals."
+clue-swimming.mp3          "People move through water using their arms and legs."
+clue-cycling.mp3           "People ride bicycles and wear helmets."
+clue-basketball.mp3        "Players shoot a ball into a hoop."
+clue-ice-hockey.mp3        "Players use sticks to hit a puck on ice."
+grammar-explanation.mp3    Superlative adjectives explanation (Checkpoint 3 + Notes)
+reporter-model.mp3         Model sports report (Checkpoint 5)
+background-music.mp3       OPTIONAL background music (a synthesised loop is used if missing)
+
+Scripts for each recording are in STORYBOARD.md.

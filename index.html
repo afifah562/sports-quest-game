@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>The Ultimate Sports Quest — Stadium Adventure</title>
+  <meta name="description" content="An interactive English adventure game for Malaysian Year 4 ESL pupils: sports vocabulary and superlative adjectives (Get Smart Plus 4, Unit 9 — Get Active!).">
+  <meta name="theme-color" content="#0b1650">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%86%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-screen="welcome">
+
+  <!-- Animated cartoon stadium background (pure CSS, no external images) -->
+  <div class="stadium-bg" aria-hidden="true">
+    <div class="sky"></div>
+    <div class="spot spot-l"></div>
+    <div class="spot spot-c"></div>
+    <div class="spot spot-r"></div>
+    <div class="floodlight fl-l"><span></span></div>
+    <div class="floodlight fl-r"><span></span></div>
+    <div class="cloud cl-1"></div>
+    <div class="cloud cl-2"></div>
+    <div class="cloud cl-3"></div>
+    <div class="crowd"></div>
+    <div class="field"></div>
+    <div class="stars-float" id="stars-float"></div>
+  </div>
+
+  <!-- Heads-up display: team, points, stars, checkpoints -->
+  <header id="hud" class="hud hidden" aria-label="Game status"></header>
+
+  <main id="app">
+    <section id="screen-welcome" class="screen active" aria-label="Welcome"></section>
+    <section id="screen-team" class="screen" aria-label="Team selection"></section>
+    <section id="screen-objectives" class="screen" aria-label="Learning objectives"></section>
+    <section id="screen-map" class="screen" aria-label="Stadium map"></section>
+    <section id="screen-play" class="screen" aria-label="Checkpoint"></section>
+  </main>
+
+  <div id="modal-root"></div>
+  <div id="coach-toast" class="coach-toast" aria-live="polite"></div>
+  <canvas id="confetti" aria-hidden="true"></canvas>
+  <div id="print-area" aria-hidden="true"></div>
+
+  <noscript>
+    <div class="noscript">The Ultimate Sports Quest needs JavaScript turned on to play.</div>
+  </noscript>
+
+  <script src="script.js"></script>
+</body>
+</html>

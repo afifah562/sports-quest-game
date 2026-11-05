@@ -1,0 +1,6 @@
+Put your video in this folder using this exact filename:
+
+referee-replay.mp4   Checkpoint 4 sports replay (H.264 video + AAC audio recommended)
+
+Until the file is added, Checkpoint 4 shows "VIDEO NOT YET AVAILABLE"
+and the video controls are disabled. Keep it short (30-90 s) and small (< 20 MB).

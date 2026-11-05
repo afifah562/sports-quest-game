@@ -1,0 +1,26 @@
+Put your original images in this folder using these exact filenames (PNG).
+Until a file is added, the game shows a clearly labelled placeholder.
+
+sports-quest-board.png            Sports Quest Board (interactive checkpoint map)
+coach-welcome.png                 Virtual Sports Coach - welcoming pupils
+coach-instructions.png            Virtual Sports Coach - giving instructions
+coach-celebrate.png               Virtual Sports Coach - celebrating correct answers
+coach-encourage.png               Virtual Sports Coach - encouraging after incorrect answers
+coach-unlock.png                  Virtual Sports Coach - unlocking checkpoints
+coach-achievement.png             Virtual Sports Coach - presenting achievements
+checkpoint-1-cover.png            Sports Detective cover
+checkpoint-2-cover.png            Equipment Match cover
+checkpoint-3-cover.png            Grammar Decoder cover
+checkpoint-4-cover.png            Virtual Referee cover
+checkpoint-5-cover.png            Sports Reporter cover
+checkpoint-6-cover.png            Champion Zone cover
+equipment-racket-shuttlecock.png  Badminton equipment
+equipment-football.png            Football equipment
+equipment-goggles.png             Swimming equipment
+equipment-bicycle-helmet.png      Cycling equipment
+equipment-basketball.png          Basketball equipment
+equipment-hockey-stick-puck.png   Ice hockey equipment
+
+Tip: transparent PNGs look best for the coach and equipment.
+The board's shape is detected automatically; adjust checkpoint marker
+positions in script.js (CHECKPOINTS -> pos: [x%, y%]) to match your board.
