@@ -1,0 +1,2 @@
+Put the 17 coach voice MP3s here (coach-welcome.mp3, coach-team.mp3, ...).
+Exact filenames and words: ../NARRATION_SCRIPTS.txt
