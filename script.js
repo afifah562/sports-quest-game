@@ -13,12 +13,12 @@
   var DIR = { image: 'assets/images/', audio: 'assets/audio/', video: 'assets/video/' };
   var ASSET_LIST = [
     ['image', 'board', 'sports-quest-board.png', 'Sports Quest Board — interactive checkpoint map'],
-    ['image', 'coach_welcome', 'coach-welcome.png', 'Virtual Sports Coach — welcoming pupils'],
-    ['image', 'coach_instruct', 'coach-instructions.png', 'Virtual Sports Coach — giving instructions'],
-    ['image', 'coach_celebrate', 'coach-celebrate.png', 'Virtual Sports Coach — celebrating correct answers'],
-    ['image', 'coach_encourage', 'coach-encourage.png', 'Virtual Sports Coach — encouraging after mistakes'],
-    ['image', 'coach_unlock', 'coach-unlock.png', 'Virtual Sports Coach — unlocking checkpoints'],
-    ['image', 'coach_achieve', 'coach-achievement.png', 'Virtual Sports Coach — presenting achievements'],
+    ['image', 'coach_welcome', 'coach-welcome.jpg', 'Virtual Sports Coach — welcoming pupils'],
+    ['image', 'coach_instruct', 'coach-instructions.jpg', 'Virtual Sports Coach — giving instructions'],
+    ['image', 'coach_celebrate', 'coach-celebrate.jpg', 'Virtual Sports Coach — celebrating correct answers'],
+    ['image', 'coach_encourage', 'coach-encourage.jpg', 'Virtual Sports Coach — encouraging after mistakes'],
+    ['image', 'coach_unlock', 'coach-unlock.jpg', 'Virtual Sports Coach — unlocking checkpoints'],
+    ['image', 'coach_achieve', 'coach-achievement.jpg', 'Virtual Sports Coach — presenting achievements'],
     ['image', 'cover1', 'checkpoint-1-cover.png', 'Checkpoint 1 cover — Sports Detective'],
     ['image', 'cover2', 'checkpoint-2-cover.png', 'Checkpoint 2 cover — Equipment Match'],
     ['image', 'cover3', 'checkpoint-3-cover.png', 'Checkpoint 3 cover — Grammar Decoder'],
